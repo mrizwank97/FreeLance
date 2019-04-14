@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\r\n\ This\ interface\ contain\ main\ method\ of\ the\ application\ which\ allow\ user\ to\ interact\ with\ system\ functionalities.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=regNo
+comment2.target=boolean\ isCharacter(java.lang.String)
+comment2.text=\r\n\ This\ method\ basically\ check\ the\ validity\ of\ the\ input\ type,\ i.e.\ whether\ id\ should\ be\ accepted\ or\ not\r\n\r\n\ @param\ \ regNo\ \ registration\ no.\ of\ the\ car\r\n\ @return\ \ \ \ the\ boolean\ variable\ reflecting\ validity\ \r\n
+comment3.params=regNo
+comment3.target=boolean\ isNumeric(java.lang.String)
+comment3.text=\r\n\ This\ method\ check\ whether\ the\ last\ four\ characters\ of\ an\ id\ are\ digits\ aur\ not\r\n\r\n\ @param\ \ regNo\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ bolean\ variable\ reflecting\ validity\r\n
+numComments=4
