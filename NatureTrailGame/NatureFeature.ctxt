@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NatureFeature
+comment1.params=
+comment1.target=NatureFeature()
+comment2.params=spacePenalty\ featureType
+comment2.target=NatureFeature(int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getFeaturePosition()
+comment4.params=featurePosition
+comment4.target=void\ setFeaturePosition(int)
+comment5.params=
+comment5.target=int\ getSpacePenalty()
+comment6.params=spacePenalty
+comment6.target=void\ setSpacePenalty(int)
+comment7.params=
+comment7.target=java.lang.String\ getFeatureType()
+comment8.params=featureType
+comment8.target=void\ setFeatureType(java.lang.String)
+numComments=9

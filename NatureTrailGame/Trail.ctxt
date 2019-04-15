@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trail
+comment1.params=
+comment1.target=Trail()
+comment2.params=
+comment2.target=void\ addCreek()
+comment3.params=
+comment3.target=void\ addBridge()
+comment4.params=
+comment4.target=void\ addFallenTree()
+comment5.params=
+comment5.target=void\ addLandSlide()
+numComments=6
